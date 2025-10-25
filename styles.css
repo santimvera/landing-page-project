@@ -1,0 +1,26 @@
+body {
+    font-family: 1em Roboto;
+}
+
+.topSection {
+    background-color: #1F2937;
+}
+
+.header {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerLinks {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    margin: 20px;
+}
+
+.headerLogo {
+    font-size: 30px;
+    margin: 20px;
+}
